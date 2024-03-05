@@ -42,5 +42,9 @@
     <div>
         <span>Đây là trang login</span>
     </div>
+
+    <div>
+        <span>Đây là trang register</span>
+    </div>
 </body>
 </html>
