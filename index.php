@@ -39,5 +39,8 @@
             <img src="assets/images/home/section-one-qr.svg" alt="qr-code">
         </div>
     </div>
+    <div>
+        <span>feature/login</span>
+    </div>
 </body>
 </html>
