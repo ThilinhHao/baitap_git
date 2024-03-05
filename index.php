@@ -40,7 +40,7 @@
         </div>
     </div>
     <div>
-        <span>feature/login</span>
+        <span>Đây là trang login</span>
     </div>
 </body>
 </html>
